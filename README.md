@@ -97,18 +97,19 @@ streamlit run app.py
 
 The application is deployed on Streamlit Community Cloud:
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://syntecxhub-flower-classification.streamlit.app)
+[![Open in Streamlit]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://syntecxhub-flower-classification.streamlit.app](https://egscb99eaac8haakwsyfvk.streamlit.app/)
 
 
 ## Project Structure
 
 ```
 Syntecxhub_Flower-Classification/
-├── iris_classification.ipynb     # Complete Jupyter notebook with full pipeline
+├── Syntecxhub_Flower Classification..ipynb     # Complete Jupyter notebook with full pipeline
 ├── app.py                        # Streamlit web application
 ├── requirements.txt              # Dependencies
-├── iris_classifier_model.pkl     # Saved best model (Decision Tree)
-├── iris_scaler.pkl               # Saved StandardScaler
+├── models/                       # Folder containing saved model artifacts
+│   ├── iris_classifier_model.pkl # Saved best model (Decision Tree)
+│   └── iris_scaler.pkl           # Saved StandardScaler
 ├── README.md                     # This documentation
 └── LICENSE                       # MIT License
 ```
