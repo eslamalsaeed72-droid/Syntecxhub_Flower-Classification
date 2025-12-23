@@ -1,5 +1,14 @@
-```markdown
 # Iris Flower Classification: Machine Learning Project
+
+![Iris Flowers Comparison](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1cs36b9rbuc98t7uhb0h.webp)
+
+<grok-card data-id="0b0d85" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+
+![Iris Species Examples](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimmGMPw0jM_8xjndEHLKj7Hf5fngvWFOJ6_V4jiFb-U0sCHej3aTu08htye1_BgUBGKfnszHoeI_OLLZVf6NjwaG9oDYyOqkjdjeDajd3zg8VuCLVTzDM8hO2XEnarwQeM-CLvFgAwfNX53GR_HPatNPkUH7-7FAoNgFKjw7ujB9LwW5piE8GIPLjJHw/s722/irir_flowers.png)
+
+<grok-card data-id="724be5" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-orange.svg)](https://scikit-learn.org/)
