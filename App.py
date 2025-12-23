@@ -4,8 +4,8 @@ import numpy as np
 import pandas as pd
 
 # Load model and scaler
-model = joblib.load('iris_classifier_model.pkl')
-scaler = joblib.load('iris_scaler.pkl')
+model = joblib.load('models/iris_classifier_model.pkl')
+scaler = joblib.load('models/iris_scaler.pkl')
 
 st.title("🌸 Iris Flower Species Classifier")
 st.markdown("Enter the flower measurements below to predict the species.")
